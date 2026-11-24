@@ -6,7 +6,7 @@ plugins {
 
 // Версия NewPipeExtractor. dev-SNAPSHOT = свежая сборка с ветки dev.
 // Если сломается — замени на тег из GitHub Releases, например "v0.24.8".
-val extractorVersion = "dev-SNAPSHOT"
+val extractorVersion = "v0.27.1"
 
 android {
     namespace = "com.vlad.mysound"
